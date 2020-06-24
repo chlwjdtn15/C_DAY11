@@ -13,7 +13,7 @@ void change(int* a) {
 
   int b = *(a + 0);
   int c = *(a + 1);
-  int sum = 0;
+
   printf("%d\n", b);
   printf("%d\n", c);
 
